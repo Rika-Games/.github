@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rika-Games/.github/assets/28797352/e030634a-d84d-474f-a2be-b96312981524">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rika-Games/.github/assets/28797352/cdc47f57-a916-44f1-9e6a-49a1e120a73c">
-  <img alt="RIKAGAMES" src="https://github.com/Rika-Games/.github/assets/28797352/e030634a-d84d-474f-a2be-b96312981524">
-</picture>
+<img width="2849" height="532" alt="Image" src="https://github.com/user-attachments/assets/8a965fc3-ab79-49ce-a4e1-1b69ab9f6f9a" />
+
+---
 
 > **Rika ⾥⾹ (마을의 향기)**  
 > 시골(마을)에서 느끼는 정 많고 따뜻한 분위기로 게이머들을 환영하고,  
